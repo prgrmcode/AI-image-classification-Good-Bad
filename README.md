@@ -6,6 +6,8 @@ Using QA camera images of injection moulded products.
 
 The data set consists of QA images of (a part of the) products taken by 4 different cameras, from 4 different directions.
 
+![classification](https://github.com/user-attachments/assets/318c66ff-73df-448a-a083-0036cd953fc6)
+
 - The training images are labelled (grouped in different folders, by camera; good or bad).
 
 ---
